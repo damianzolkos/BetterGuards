@@ -1,6 +1,6 @@
 ﻿namespace BetterGuards;
 
-public class Validate : IClause
+public class Validate : IValidateClause
 {
-    public static IClause For {get; } = new Guard();
+    public static IValidateClause For { get; } = new Validate();
 }

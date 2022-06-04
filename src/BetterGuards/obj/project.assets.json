@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/damianzolkos/Desktop/Magazyn/Projekty/BetterGuards/BetterGuards.csproj",
+      "projectUniqueName": "/Users/damianzolkos/Desktop/Magazyn/Projekty/BetterGuards/src/BetterGuards/BetterGuards.csproj",
       "projectName": "BetterGuards",
-      "projectPath": "/Users/damianzolkos/Desktop/Magazyn/Projekty/BetterGuards/BetterGuards.csproj",
+      "projectPath": "/Users/damianzolkos/Desktop/Magazyn/Projekty/BetterGuards/src/BetterGuards/BetterGuards.csproj",
       "packagesPath": "/Users/damianzolkos/.nuget/packages/",
-      "outputPath": "/Users/damianzolkos/Desktop/Magazyn/Projekty/BetterGuards/obj/",
+      "outputPath": "/Users/damianzolkos/Desktop/Magazyn/Projekty/BetterGuards/src/BetterGuards/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/damianzolkos/.nuget/NuGet/NuGet.Config"

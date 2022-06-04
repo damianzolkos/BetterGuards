@@ -1,6 +1,6 @@
 ﻿namespace BetterGuards;
 
-public class Guard : IClause
+public class Guard : IGuardClause
 {
-    public static IClause Against {get; } = new Guard();
+    public static IGuardClause Against { get; } = new Guard();
 }

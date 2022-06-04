@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kxdR7sn153PiAfveqTDoIOSta9Ae6NfEey53kc4XhDG8RPg7r+18+REwde7etQWAObkhDFK4wDSNSdFDfMr/kw==",
+  "dgSpecHash": "fag7wVbJQEn6SLHf7YsGxteVyQAeC0nC2cn9MVI5+z7RAaOAChk511NAEJXvis/LFgfRh4zdIBwAOuRviTxOxQ==",
   "success": true,
-  "projectFilePath": "/Users/damianzolkos/Desktop/Magazyn/Projekty/BetterGuards/BetterGuards.csproj",
+  "projectFilePath": "/Users/damianzolkos/Desktop/Magazyn/Projekty/BetterGuards/src/BetterGuards/BetterGuards.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

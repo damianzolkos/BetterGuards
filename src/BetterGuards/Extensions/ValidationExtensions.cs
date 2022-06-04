@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace BetterGuards
+namespace BetterGuards.Extensions
 {
-    public interface IClause
+    public static class ValidationExtensions
     {
-        
+
     }
 }
