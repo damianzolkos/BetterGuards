@@ -7,7 +7,7 @@ namespace BetterGuards.Extensions
 {
     public static class GuardExtensions
     {
-        public static void Null(this IGuardClause clause, object value)
+        public static void Null<T>(this IGuardClause clause, T value)
         {
             if (value is null)
             {
