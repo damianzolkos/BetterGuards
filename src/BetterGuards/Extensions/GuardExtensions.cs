@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
+using BetterGuards.Exceptions;
+
 namespace BetterGuards.Extensions
 {
     public static class GuardExtensions
@@ -11,7 +13,7 @@ namespace BetterGuards.Extensions
         {
             if (value is null)
             {
-                throw new Exception();
+                throw new BetterGuardsNullException();
             }
         }
     }
